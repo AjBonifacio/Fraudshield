@@ -1,6 +1,11 @@
 # FraudShield 🚨  
 ## Detección de Fraude en Transacciones con Tarjetas de Crédito
 
+#Participantes 
+**Angelo Bonifacio**
+**Daniel NUÑEZ**
+**iSaac Herrera**
+
 ## Descripción general
 
 **FraudShield** es un prototipo de detección de fraude que utiliza técnicas de *Machine Learning* para identificar transacciones sospechosas con tarjetas de crédito. El sistema analiza datos históricos reales de transacciones y aprende a diferenciar entre operaciones legítimas y fraudulentas.
