@@ -1,10 +1,11 @@
 # FraudShield 🚨  
 ## Detección de Fraude en Transacciones con Tarjetas de Crédito
 
-##Participantes 
-**Angelo Bonifacio**
-**Daniel NUÑEZ**
-**iSaac Herrera**
+## Participantes
+
+- **Angelo Bonifacio**
+- **Daniel Núñez**
+- **Isaac Herrera**
 
 ## Descripción general
 
